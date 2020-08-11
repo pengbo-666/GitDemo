@@ -6,6 +6,7 @@ public class GitTest {
 		// TODO Auto-generated method stub
 			System.out.println("一个项目");
 			System.out.println("二个项目");
+			System.out.println("三个项目");
 	}
 
 }
